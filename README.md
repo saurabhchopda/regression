@@ -1,2 +1,2 @@
 # regression
-Common types of regression analysis using scikit-learn
+Regression analysis using scikit-learn
